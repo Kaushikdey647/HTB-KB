@@ -7,6 +7,8 @@ Find the consolidated list of [port identifications](ports.md)
 ## Protocols
 
 - [FTP](protocols/ftp.md)
+- [SMB](protocols/smb.md)
+- [SNMP](protocols/snmp.md)
 
 ## Attacks
 
