@@ -11,9 +11,14 @@ Find the consolidated list of [port identifications](ports.md)
 - [SNMP](protocols/snmp.md)
 - [SSH](protocols/ssh.md)
 
-## Attacks
+## Attacks and Exploits
 
-- [SWEET32: Birthday Attacks on 64-bit Block Ciphers in TLS and OpenVPN](attacks/sweet32.md)
+- [SWEET32: Birthday Attacks on 64-bit Block Ciphers in TLS and OpenVPN](exploits/sweet32.md)
+- [Wordpress Simple Backup Arbitrary Download](exploits/simple-backup.md)
+
+## Scripts
+
+- [Reverse Shell: In-Depth Exploration and Best Practices](scripts/reverse-shell.md)
 
 ## Tools
 
