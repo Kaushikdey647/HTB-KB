@@ -1,7 +1,6 @@
 # Table of contents
 
-* [HTB-KB](README.md)
-* [PORTS and what they mean](ports.md)
+* [PORTS and what they mean](README.md)
 * [Web Based Recon Points](common-vectors/README.md)
   * [robots.txt](common-vectors/robots.md)
 * [Exploits](exploits/README.md)
