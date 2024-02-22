@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Kaushik's Pentesting Knowledge Base](README.md)
-* [PORTS and what they mean](<README (1).md>)
+* [Basics](basics/README.md)
+  * [PORTS and what they mean](basics/ports.md)
 * [Web Based Recon Points](common-vectors/README.md)
   * [robots.txt](common-vectors/robots.md)
 * [Exploits](exploits/README.md)
